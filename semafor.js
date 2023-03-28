@@ -14,7 +14,6 @@ function changeColor () {
 	} else {
 		semafor1.setAttribute("class", "red");		
 	}
-
 }
 
 window.onload = loadTrafficLight;
