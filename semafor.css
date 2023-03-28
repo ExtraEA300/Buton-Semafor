@@ -1,0 +1,21 @@
+.green {
+	background-color:	green;
+}
+.red {
+	background-color:	red;
+}
+.yellow {
+	background-color:	yellow;
+}
+
+button#semafor {
+	border:		1px solid black;	
+	width:		80%;
+	height:		60%;	
+}
+
+div {
+	text-align:	center;
+	margins:	auto;
+	vertical-align: middle;
+}
