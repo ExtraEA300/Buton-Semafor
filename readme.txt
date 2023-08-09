@@ -1,15 +1,14 @@
-Buton semafor
-Să se creeze o pagină care conține un buton. La încărcarea paginii butonul va avea culoarea roșie.
+Traffic light button
+Create a page that contains a button. When the page loads, the button will be red.
 
-După prima apăsare culoarea lui se va schimba în galben.
+After the first press its color will change to yellow.
 
-După a doua apăsare culoarea lui va deveni verde.
+After the second press its color will turn green.
 
-După a treia va deveni din nou roșu
+After the third it will turn red again
 
-Și așa mai departe.
+And so on.
 
-Pentru a schimba culoarea butonului se recomandă folosirea bootstrap.
 
-Variantă bonus
-Culoarea butonului nu se schimbă doar la click, ci se schimbă și din 10 în 10 secunde.
+Bonus variant
+The color of the button doesn't only change when clicked, it also changes every 10 seconds.
